@@ -1,0 +1,21 @@
+unit eInterface.Model.Interfaces;
+
+interface
+
+type
+  iPessoa = interface
+    ['{33E8555B-332D-4F0E-806B-08BF271E725E}']
+    function Nome (Value : string) : iPessoa;
+    function SobreNome (Value : string) : iPessoa;
+    function NomeCompleto : string;
+  end;
+
+  iPessoaFactory = interface
+    ['{9977FC0B-7173-48FE-BEFC-535FBBBA392D}']
+    function PessoaFisica : iPessoa;
+    function PessoaJuridica : iPessoa;
+  end;
+
+implementation
+
+end.

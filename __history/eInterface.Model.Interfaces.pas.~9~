@@ -1,0 +1,15 @@
+unit eInterface.Model.PessoaFisica;
+
+interface
+
+type
+  iPessoa = interface
+    ['{33E8555B-332D-4F0E-806B-08BF271E725E}']
+    function Nome (Value : string) : iPessoa;
+    function SobreNome (Value : string) : iPessoa;
+    function NomeCompleto : string;
+  end;
+
+implementation
+
+end.

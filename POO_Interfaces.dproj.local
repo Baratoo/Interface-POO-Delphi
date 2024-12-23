@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/23 08:06:04.000.783,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/10 16:41:23.000.168,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/27 13:16:58.000.935,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/27 13:19:54.000.053,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/06 16:36:39.000.399,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/07 10:08:04.000.285,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/04/02 17:07:52.000.644,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 11:29:27.000.777,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 11:30:27.000.870,C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\KaiqueBarato\POO_Interface\eInterface.View.Principal.dfm</Transaction>
+    <Transaction>2024/12/23 11:30:27.000.870,C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\KaiqueBarato\POO_Interface\eInterface.View.Principal.pas</Transaction>
+    <Transaction>2024/12/23 11:30:36.000.448,C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\KaiqueBarato\POO_Interface\POO_Interfaces.dproj</Transaction>
+    <Transaction>2024/12/23 11:31:11.000.650,=E:\KaiqueBarato\POO_Interface\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 11:33:11.000.040,E:\KaiqueBarato\POO_Interface\Unit1.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2024/12/23 11:33:15.000.196,=E:\KaiqueBarato\POO_Interface\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 11:37:52.000.002,E:\KaiqueBarato\POO_Interface\Unit1.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.Interfaces.pas</Transaction>
+    <Transaction>2024/12/23 13:33:44.000.737,E:\KaiqueBarato\POO_Interface\eInterface.Model.Pessoa.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaFisica.pas</Transaction>
+    <Transaction>2024/12/23 13:34:46.000.940,=E:\KaiqueBarato\POO_Interface\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 13:34:56.000.018,E:\KaiqueBarato\POO_Interface\Unit1.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaJuridica.pas</Transaction>
+    <Transaction>2024/12/23 13:35:23.000.690,E:\KaiqueBarato\POO_Interface\eInterface.Model.Interfaces.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaFisica1.pas</Transaction>
+    <Transaction>2024/12/23 13:35:32.000.799,E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaFisica.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.Interfaces.pas</Transaction>
+    <Transaction>2024/12/23 13:35:37.000.627,E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaFisica1.pas=E:\KaiqueBarato\POO_Interface\eInterface.Model.PessoaFisica.pas</Transaction>
+    <Transaction>2024/12/23 13:46:29.911,=E:\KaiqueBarato\POO_Interface\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 13:46:42.974,E:\KaiqueBarato\POO_Interface\eInterface.Model.Pessoa.Factory.pas=E:\KaiqueBarato\POO_Interface\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
